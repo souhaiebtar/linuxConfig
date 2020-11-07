@@ -1,0 +1,19 @@
+[MIME Cache]
+application/rdf+xml=firefox_developer.desktop;
+application/rss+xml=firefox_developer.desktop;
+application/x-bittorrent=freedownloadmanager_torrent.desktop;
+application/x-xpinstall=firefox_developer.desktop;
+application/xhtml+xml=firefox_developer.desktop;
+application/xml=firefox_developer.desktop;
+image/gif=firefox_developer.desktop;
+image/jpeg=firefox_developer.desktop;
+image/png=firefox_developer.desktop;
+text/html=firefox_developer.desktop;
+text/xml=firefox_developer.desktop;
+video/webm=firefox_developer.desktop;
+x-scheme-handler/chrome=firefox_developer.desktop;
+x-scheme-handler/ftp=firefox_developer.desktop;
+x-scheme-handler/http=firefox_developer.desktop;
+x-scheme-handler/https=firefox_developer.desktop;
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop;
+x-scheme-handler/magnet=freedownloadmanager_magnet_up.desktop;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Postman
+Icon=/home/tunknown/.apps/icons/postman.png
+Terminal=false
+Exec=/usr/bin/zsh -c /home/tunknown/.apps/Postman/app/Postman
+Categories=Development;

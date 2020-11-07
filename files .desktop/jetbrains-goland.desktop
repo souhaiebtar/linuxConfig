@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=Development;IDE;
+Comment=A clever IDE to Go
+Exec="/home/tunknown/.local/share/JetBrains/Toolbox/apps/Goland/ch-0/201.7223.36/bin/goland.sh" %f
+Icon=/home/tunknown/.local/share/JetBrains/Toolbox/apps/Goland/ch-0/.icon.svg
+Name=GoLand
+StartupWMClass=jetbrains-goland
+Terminal=false
+Type=Application
+Version=1.0

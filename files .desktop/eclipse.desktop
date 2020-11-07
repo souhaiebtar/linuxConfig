@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-SnapInstanceName=eclipse
+Version=1.0
+Type=Application
+Name=Eclipse
+Icon=/home/tunknown/.apps/eclipse/icon.xpm
+Exec=/home/tunknown/.apps/eclipse/eclipse %U
+Comment=Eclipse IDE
+Categories=Development;IDE;
+Terminal=false
+StartupWMClass=eclipse

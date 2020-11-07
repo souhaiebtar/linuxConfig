@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=RunJS
+Icon=/home/tunknown/.apps/appimages/runjs/runjs.png
+Terminal=false
+Exec=/bin/bash -c /home/tunknown/.apps/appimages/runjs/RunJS-1.7.0.AppImage
+Categories=Development;
+Name[en_US]=RunJS

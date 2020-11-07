@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Altair
+Icon=/home/tunknown/.apps/appimages/altair/altair.png
+Terminal=false
+Exec=/bin/bash -c /home/tunknown/.apps/appimages/altair/altair_2.4.6_x86_64_linux.AppImage
+Categories=Development;
+Name[en_US]=Altair

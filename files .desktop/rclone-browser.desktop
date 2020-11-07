@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=rclone-browser
+Icon=/home/tunknown/.apps/appimages/rclone-browser/rclone-browser.png
+Terminal=false
+Exec=/bin/bash -c /home/tunknown/.apps/appimages/rclone-browser/rclone-browser.AppImage
+Categories=Development;
+Name[en_US]=rclone-browser

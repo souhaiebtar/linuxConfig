@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Apache JMeter5
+Comment=Load testing application
+Keywords=performance;load;testing
+Exec=/home/tunknown/.apps/jmeter-5.2.1/bin/jmeter
+Icon=/home/tunknown/.apps/jmeter-5.2.1/icons/jmeter-128x128.png
+Terminal=false
+Type=Application
+Categories=Development;

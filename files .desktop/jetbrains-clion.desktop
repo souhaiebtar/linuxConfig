@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=Development;IDE;
+Comment=A smart cross-platform IDE for C and C++
+Exec="/home/tunknown/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/201.6668.126/bin/clion.sh" %f
+Icon=/home/tunknown/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/.icon.svg
+Name=CLion
+StartupWMClass=jetbrains-clion
+Terminal=false
+Type=Application
+Version=1.0

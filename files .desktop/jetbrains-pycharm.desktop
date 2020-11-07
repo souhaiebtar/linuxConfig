@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=PyCharm Professional
+Icon=/home/tunknown/.local/share/JetBrains/Toolbox/apps/PyCharm-P/ch-0/.icon.svg
+StartupWMClass=jetbrains-pycharm
+Comment=Python IDE for professional developers
+Exec="/home/tunknown/.local/share/JetBrains/Toolbox/apps/PyCharm-P/ch-0/201.7223.69/bin/pycharm.sh" %f
+Version=1.0
+Type=Application
+Categories=Development;IDE;
+Terminal=false

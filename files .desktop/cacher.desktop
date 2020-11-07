@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Cacher
+Icon=/home/tunknown/.apps/appimages/cacher/cacher.png
+Terminal=false
+Exec=/bin/bash -c /home/tunknown/.apps/appimages/cacher/Cacher-2.25.7.AppImage
+Categories=Development;
+Name[en_US]=Cacher
